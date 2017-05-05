@@ -1,2 +1,2 @@
 # test
-This is a HelloWorld program in "C"!
+This is a new HelloWorld program in "C"!
